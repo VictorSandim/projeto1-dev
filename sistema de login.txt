@@ -2,3 +2,4 @@ BEM VINDO
 
 digite email:
 digite senha: 
+digite sua idade:
